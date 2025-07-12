@@ -1,0 +1,3 @@
+# Ignore Docker image layers or local files you don't want to commit
+*.log
+*.env
